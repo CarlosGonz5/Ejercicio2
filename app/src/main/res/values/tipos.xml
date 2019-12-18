@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tipos">
+        <item>Sweet</item>
+        <item>Hot</item>
+        <item>Bitter</item>
+        <item>Tasty</item>
+    </string-array>
+
+</resources>
